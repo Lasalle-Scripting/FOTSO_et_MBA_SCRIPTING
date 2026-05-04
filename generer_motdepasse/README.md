@@ -37,7 +37,7 @@ L'application est fournie sous forme d'exécutable autonome ne nécessitant aucu
 pip install customtkinter pyperclip
 
 # Lancement de l'application
-python gui.py
+python pwd.py
 ```
 
 ---
@@ -51,5 +51,5 @@ python gui.py
 ---
 
 ## 📝 À Propos
-Projet académique réalisé pour le module de sécurité système.
-**Auteur :** Projet Scolaire
+Projet académique réalisé pour le module de scripting.
+**Auteur :** FOTSO et MBA
