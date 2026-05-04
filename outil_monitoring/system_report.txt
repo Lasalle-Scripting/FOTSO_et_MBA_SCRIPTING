@@ -1,0 +1,10 @@
+===== RAPPORT SYSTEME =====
+
+Date : 2026-04-26 22:01:08
+
+CPU : 2.7% (normal)
+RAM : 49.4% (normal)
+Disque : 94.1% (normal)
+
+Recommandations :
+- Aucune action nécessaire.

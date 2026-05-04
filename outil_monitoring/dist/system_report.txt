@@ -1,0 +1,10 @@
+===== RAPPORT SYSTEME =====
+
+Date : 2026-05-04 15:58:09
+
+CPU : 100.0% (critique)
+RAM : 45.8% (normal)
+Disque : 81.4% (normal)
+
+Recommandations :
+- Vérifier les processus actifs.
